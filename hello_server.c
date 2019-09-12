@@ -7,7 +7,7 @@
 
 void error_handling(char *message);
 
-int main(int argc, char *argv[]){
+int main(int argc, char *argv[]){ 
 	int serv_sock;
 	int clnt_sock;
 
